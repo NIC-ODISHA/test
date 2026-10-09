@@ -6,4 +6,4 @@ acd
 
 hello test
 
-This is the original line - edited by Tech Lead.
+This is the original line - edited by Developer.
