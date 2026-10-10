@@ -10,6 +10,5 @@ hello test
 
 This is the original line.
 
-hello normal added this for conflit
 
 
