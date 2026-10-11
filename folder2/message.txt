@@ -1,18 +1,24 @@
-﻿i am eating
+i hello
 
+<<<<<<< Base
+hello
+=======
 mangos //
+>>>>>>> Incoming (Dev)
 
 
-dc
+de  
+
+
+
+
 
 
 hello
 
 dostids
 
-
-
-dostids
+hello
 
 haello
 
