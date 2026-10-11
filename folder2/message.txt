@@ -1,6 +1,10 @@
-﻿i hello
+i hello
 
+<<<<<<< Base
 hello
+=======
+mangos //
+>>>>>>> Incoming (Dev)
 
 
 de  
@@ -10,10 +14,13 @@ de
 
 
 
-
+hello
 
 dostids
 
 hello
 
+haello
 
+
+///
