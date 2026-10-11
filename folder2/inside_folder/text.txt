@@ -1,4 +1,4 @@
-i am a 
+﻿i am a 
 
 hey dosti, ha ha
 
@@ -6,7 +6,3 @@ hey dosti, ha ha
 ha
 
 heeee
-
-hello sahsad
-
-hello
