@@ -12,17 +12,11 @@ dostiy
 
 hello
 heee
-<<<<<<< Base
-ghgood boy
 
-
-
-=======
-ghgghgh
-sdasd
->>>>>>> Incoming (Dev)
 
 hello
 
-subham dash
+subhamdas
+
+hello
 asd
