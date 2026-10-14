@@ -1,9 +1,9 @@
-﻿hello
+hello
 
 
 de  
 
-hatyag
+asdsa
 
 
 hell
@@ -12,57 +12,17 @@ dostiy
 
 hello
 heee
+<<<<<<< Base
 ghgood boy
 
 
 
+=======
+ghgghgh
+sdasd
+>>>>>>> Incoming (Dev)
 
 hello
 
-subhamDash
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+subham dash
+asd
