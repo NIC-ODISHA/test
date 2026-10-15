@@ -1,9 +1,9 @@
-This is the original line.
+This is the duplicate line.
 
 modify by devloper 
 for conflit should occurs 
 
-google
+googlly
 
 hello
 
@@ -13,14 +13,14 @@ hello
 ha
 ha
 
-hiiii
+hiiiiiiiiiii
 
 
 hera pheri
 
 
 hr
-hello
+hello boy
 
 hhhh
 
