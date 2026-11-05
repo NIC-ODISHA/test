@@ -3,7 +3,6 @@ This is the duplicate line.
 modify by devloper 
 for conflit should occurs 
 
-googlly
 
 hello
 
@@ -37,14 +36,7 @@ ha
 ah
 
 
-ah
-
-
-ha ha
-
-
-jaguar the boy
-hello
+hii
 geye
 
 
